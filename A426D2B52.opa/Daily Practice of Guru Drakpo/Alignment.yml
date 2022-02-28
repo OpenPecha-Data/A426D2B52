@@ -1,0 +1,19 @@
+segment_sources:
+  P32DA93CD:
+    type: origin_type
+    relation: translation
+    language: en
+  PEFF6FF9D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  11021d02edc64d8b81004a221beab1fe:
+    P32DA93CD: baf768e29c5c4e1db0ddfde4397aa212
+    PEFF6FF9D: 57b5ad5085a1409089944a5e60db77da
+  abf9d6a466124b69b2d7ebd3e8fb0ca4:
+    P32DA93CD: 8eb11dd54ccc45548463d10b369141fa
+    PEFF6FF9D: 59645bf68b984297b7a8037833f431b6
+  8664e31e54d54f17b8bccaa3e4b15316:
+    P32DA93CD: d923345db5704a99ba2b0afc3eb15f8a
+    PEFF6FF9D: 168f03d16566402694c350ce2f1e914d

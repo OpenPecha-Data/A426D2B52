@@ -1,0 +1,26 @@
+segment_sources:
+  P32DA93CD:
+    type: origin_type
+    relation: translation
+    language: en
+  PCE6B55C3:
+    type: origin_type
+    relation: translation
+    language: zh
+  PEFF6FF9D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  283459edf62d4f4bbe0cd8be200cd0d5:
+    P32DA93CD: ebfa73c9db344cfaa30b69d743255d8a
+    PCE6B55C3: b7cf4627ac354fc9b65035ff08edc662
+    PEFF6FF9D: 153d351604224dddb11f64f0c0271c71
+  78807c9601d8470b97f308cbe773ce2d:
+    P32DA93CD: a86307f8f6634f1584710295f1f58a43
+    PCE6B55C3: 8d0b7c42993c40cd80d5272244e0e7d3
+    PEFF6FF9D: 1fbbf56ea25446ffbae495ac7700f4a7
+  048139b0dd9b4cc8a1de246c0cf26a6a:
+    P32DA93CD: 8e0189e8c9e6468e81c70633a62b4a17
+    PCE6B55C3: 7ca2c2e0b72d41bfb64f359c3707ea8d
+    PEFF6FF9D: 70478501425446178130e3f1f05f825f
